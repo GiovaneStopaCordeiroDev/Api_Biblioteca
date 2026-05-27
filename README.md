@@ -12,10 +12,15 @@
 - Tratamento global de exceções
 
 # Prints do Swagger
-![Swagger](images/swagger_autor.png)
-![Swagger](images/swagger_emprestimo.png)
-![Swagger](images/swagger_livro_usuario.png)
+
+![Swagger](API_Biblioteca/images/swagger_autor.png)
+
+![Swagger](API_Biblioteca/images/swagger_emprestimo.png)
+
+![Swagger](API_Biblioteca/images/swagger_livro_usuario.png)
 
 # Prints da Estrutura
-![Swagger](images/estrutura_1.png)
-![Swagger](images/estrutura_2.png)
+
+![Estrutura](API_Biblioteca/images/estrutura_1.png)
+
+![Estrutura](API_Biblioteca/images/estrutura_2.png)
