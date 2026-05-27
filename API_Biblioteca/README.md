@@ -1,7 +1,7 @@
 # Projeto pessoal: API RESTful de Biblioteca
 
-# Desenvolvimento de API utilizando ASP.NET Core, Entity Framework Core e SQL Server, com autenticação JWT, Swagger, 
-  middleware global de exceções e arquitetura em camadas.
+Desenvolvimento de API utilizando ASP.NET Core, Entity Framework Core e SQL Server, com autenticação JWT, Swagger, 
+middleware global de exceções e arquitetura em camadas.
 
 # Funcionalidades
 - Cadastro de usuários
