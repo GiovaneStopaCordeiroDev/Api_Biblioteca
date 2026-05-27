@@ -14,13 +14,10 @@
 # Prints do Swagger
 
 ![Swagger](API_Biblioteca/images/swagger_autor.png)
-
 ![Swagger](API_Biblioteca/images/swagger_emprestimo.png)
-
 ![Swagger](API_Biblioteca/images/swagger_livro_usuario.png)
 
 # Prints da Estrutura
 
 ![Estrutura](API_Biblioteca/images/estrutura_1.png)
-
 ![Estrutura](API_Biblioteca/images/estrutura_2.png)
